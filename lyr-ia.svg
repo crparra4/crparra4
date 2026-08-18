@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 152 36" width="152" height="36" role="img" aria-label="ia_aplicada">
+<defs>
+  <clipPath id="c"><rect x="0.5" y="0.5" width="151" height="35" rx="8"/></clipPath>
+  <linearGradient id="sw" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#60A5FA" stop-opacity="0"/>
+    <stop offset="50%" stop-color="#60A5FA" stop-opacity="0.28"/>
+    <stop offset="100%" stop-color="#60A5FA" stop-opacity="0"/>
+  </linearGradient>
+</defs>
+<rect x="0.5" y="0.5" width="151" height="35" rx="8" fill="#0B1220" stroke="#60A5FA" stroke-width="1" stroke-opacity="0.35"><animate attributeName="stroke-opacity" values="0.22;0.8;0.22" dur="4.2s" begin="0.0s" repeatCount="indefinite"/></rect>
+<g clip-path="url(#c)"><rect x="-152" y="0" width="76" height="36" fill="url(#sw)" transform="skewX(-16)"><animate attributeName="x" values="-91;167" dur="4.2s" begin="0.0s" repeatCount="indefinite"/></rect></g>
+<rect x="12" y="9" width="4" height="18" rx="2" fill="#60A5FA"><animate attributeName="opacity" values="0.45;1;0.45" dur="4.2s" begin="0.0s" repeatCount="indefinite"/><animate attributeName="height" values="18;24;18" dur="4.2s" begin="0.0s" repeatCount="indefinite"/><animate attributeName="y" values="9;6;9" dur="4.2s" begin="0.0s" repeatCount="indefinite"/></rect>
+<text x="34" y="22.4" font-family="ui-monospace,'SF Mono','JetBrains Mono','Fira Code','Cascadia Code',Consolas,'Courier New',monospace" font-size="13" font-weight="700" letter-spacing="1.4" fill="#60A5FA">ia_aplicada</text>
+</svg>
